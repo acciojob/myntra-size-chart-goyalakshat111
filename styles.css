@@ -1,2 +1,26 @@
 
 /* Your CSS Code here. */
+table{
+	width:100%;
+}
+table,td{
+	border:1px solid black;
+	border-collapse:collapse;
+	text-align:center;
+}
+td{
+	padding:2px;
+}
+
+.row1{
+	background-color:burlywood;
+}
+.row2{
+	background-color:indianred;
+}
+.row3{
+	background-color:pink;
+}
+.row4{
+	background-color:gray;
+}
